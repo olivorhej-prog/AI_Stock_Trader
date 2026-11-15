@@ -3,3 +3,5 @@ portfolio.json
 portfolio_backup.json
 __pycache__/
 *.pyc
+.env
+*.env
