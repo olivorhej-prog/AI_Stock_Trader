@@ -1,0 +1,5 @@
+venv/
+portfolio.json
+portfolio_backup.json
+__pycache__/
+*.pyc
