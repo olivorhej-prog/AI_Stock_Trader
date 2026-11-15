@@ -1,6 +1,1 @@
-yfinance
-pandas
-numpy
-flask
-schedule
-supabase
+python-dotenv
